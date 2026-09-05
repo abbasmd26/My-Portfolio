@@ -61,14 +61,6 @@ You can also modify `style.css` to change:
 
 This project was created to practice basic web development concepts and to create a personal portfolio for showcasing my skills and projects.
 
-## 👨‍💻 Author
-
-**Your Name**
-
-* LinkedIn: Add your LinkedIn profile
-* GitHub: Add your GitHub profile
-* Email: [yourname@gmail.com](mailto:yourname@gmail.com)
-
 ## 📄 License
 
 This project is open for personal and educational use.
